@@ -9,7 +9,7 @@ A graphical application for analyzing mass spectral data and calculating Signal-
 ## Overview
 --------
 
-The Mass Spectrum Analyzer provides an intuitive interface for loading and analyzing mass spectrometry data. It features:
+The MS_Spectrum_SNR provides an intuitive interface for loading and analyzing mass spectrometry data. It features:
 
 * CSV file loading for mass spectral data
 * Interactive SNR calculation
