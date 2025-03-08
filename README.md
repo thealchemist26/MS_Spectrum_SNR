@@ -83,6 +83,13 @@ Where:
 * Tkinter for GUI components
 * Error handling for invalid inputs and edge cases
 
+## Output Example
+
+![image](https://github.com/user-attachments/assets/313e5c49-99c5-4f36-b8bd-d0fa28e07279)
+
+
+
+
 ## Contributing
 ------------
 
